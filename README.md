@@ -16,10 +16,8 @@ Currently deep in interview prep, cold-emailing professors, and slowly getting b
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/focus-Bayesian%20modeling-6C7A89?style=flat-square" />
-<img src="https://img.shields.io/badge/focus-data%20pipelines-A9A9A9?style=flat-square" />
-<img src="https://img.shields.io/badge/focus-applied%20ML-6C7A89?style=flat-square" />
-<img src="https://img.shields.io/badge/currently-interview%20prep-A9A9A9?style=flat-square" />
+<img src="https://github-readme-stats.vercel.app/api?username=christianhilario&show_icons=true&theme=default&hide_border=true&title_color=6C7A89&icon_color=A9A9A9&text_color=444444&bg_color=ffffff" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=christianhilario&hide_border=true&stroke=A9A9A9&ring=6C7A89&fire=6C7A89&currStreakLabel=444444&background=ffffff" height="165" />
 
 </div>
 
