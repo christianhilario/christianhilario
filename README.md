@@ -6,29 +6,22 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
-
 ### 「 about me 」
 
 Rising junior studying **Data Science** at Boston University, minoring in Business Administration. I like building things that have to be *honestly* right, not just look right, whether that's a prediction model, a data pipeline, or a spreadsheet nobody wants to double-check.
 
 Currently deep in interview prep, cold-emailing professors, and slowly getting better at not trusting a result just because it looks clean.
 
-**currently working on**
-- 🏀 a Bayesian model that forecasts NBA playoff odds (and occasionally humbles me)
-- 🏠 a housing recommender built on 236K+ Boston crime records
-- 📚 sharpening SQL, applied stats, and ML fundamentals
+<br>
 
-</td>
-<td width="40%" valign="top" align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=christianhilario&show_icons=true&theme=minimal&hide_border=true&title_color=6C7A89&icon_color=A9A9A9&text_color=444444" width="100%" />
+<img src="https://img.shields.io/badge/focus-Bayesian%20modeling-6C7A89?style=flat-square" />
+<img src="https://img.shields.io/badge/focus-data%20pipelines-A9A9A9?style=flat-square" />
+<img src="https://img.shields.io/badge/focus-applied%20ML-6C7A89?style=flat-square" />
+<img src="https://img.shields.io/badge/currently-interview%20prep-A9A9A9?style=flat-square" />
 
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
